@@ -76,12 +76,12 @@ const App = () => {
           </li>
           <li>
             <a href="/#link2" onClick={toggleMenu}>
-              About Us
+              NFT holder perks
             </a>
           </li>
           <li>
             <a href="/#link3" onClick={toggleMenu}>
-              NFT holder perks
+              About Us
             </a>
           </li>
           <li>
@@ -111,10 +111,10 @@ const App = () => {
             Welcome
           </a>
           <a className="hide-800" href="/#link2">
-            About Us
+            NFT holder perks
           </a>
           <a className="hide-800" href="/#link3">
-            NFT Holder Perks
+            About us
           </a>
           <a className="hide-800" href="/#link4">
             Minting FAQ
@@ -159,13 +159,15 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          The Cryptonauts are the first team of multiverse heroes to save the metaverse
+          Everyone who mints a Cryptonaut will receive:
+          A FREE Cryptonauts hoodie 
+          abiltiy to resell your nft on MagicEden
+          10% of all profit from the launch redistributed to all minters
         </div>
 
         <div id="link3" className="container card">
           <h1 className="pb-3">
-            Everyone who mints a Cryptonaut will receive:
-            A FREE Cryptonauts hoodie, abiltiy to resell your nft on MagicEden, 10% of all profit from the launch redistributed to all minters.
+            The Cryptonauts are the first team of multiverse heroes to save the metaverse
           </h1>
         </div>
 
