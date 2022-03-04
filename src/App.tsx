@@ -71,22 +71,22 @@ const App = () => {
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+              Welcome
             </a>
           </li>
           <li>
             <a href="/#link2" onClick={toggleMenu}>
-              Link 2
+              Roadmap
             </a>
           </li>
           <li>
             <a href="/#link3" onClick={toggleMenu}>
-              Link 3
+              NFT holder perks
             </a>
           </li>
           <li>
             <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+              Minting FAQ
             </a>
           </li>
           <li>
@@ -108,16 +108,16 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
           <a className="hide-800" href="/#link1">
-            Link 1
+            Welcome
           </a>
           <a className="hide-800" href="/#link2">
-            Link 2
+            Roadmap
           </a>
           <a className="hide-800" href="/#link3">
-            Link 3
+            NFT Holder Perks
           </a>
           <a className="hide-800" href="/#link4">
-            Link 4
+            Minting FAQ
           </a>
           <div className="social-icons hide-800">
             <a href="https://twitter.com" target="_blank" rel="noreferrer">
@@ -132,15 +132,11 @@ const App = () => {
       <div className="content-wrapper">
         <header className="card" id="link1">
           <div style={{ padding: "0 24px 0 24px 0" }}>
-            <h3 className="text-secondary-color">Welcome To</h3>
-            <h1 className="pb-3">The Boiler Plate</h1>
+            <h3 className="text-secondary-color">Save the metaverse</h3>
+            <h1 className="pb-3">Become a Cryptonaut today</h1>
             <p className="text-secondary-color">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              scelerisque ipsum non est porta mollis. Donec sapien sapien,
-              dictum eget enim sed, hendrerit semper orci. Donec ante magna,
-              consequat at eros ac, eleifend dictum sem. Nam vitae condimentum
-              lorem. Vestibulum molestie dui turpis, tincidunt porta sem congue
-              nec.
+              Congrats, you have gained access to Cryptonauts minting site. Make sure your phantom wallet is loaded with SOL.
+              If you need help with the minting process please refer to our minting FAQ above.
             </p>
           </div>
           <div>
@@ -179,39 +175,55 @@ const App = () => {
         </div>
 
         <div id="link3" className="container card">
-          <h1 className="pb-3">Lorem ipsum</h1>
+          <h1 className="pb-3">
+          -  10% of all profits ever generated redistrubeted to holders on quarterly basis
+
+          -  One FREE piece of clothing from every clothing drop that you mint from
+
+          -  Access to all giveaways and airdrops; totalling over $75,000
+
+          -  Eligibility to compete in The Great Hash
+
+          -  Access to all Cryptonaut events
+
+          -  Access to private discord channels just for holders
+
+          -  Immediate access to one of the best communities on the internet!!
+          </h1>
         </div>
 
         <div id="link4" className="container faq">
           <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Funding your Phantom wallet</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+              You can purchase SOL directly in your phantom wallet, however, to avoid fees we recommend
+              signing up or signing into your coinbase account, purchasing 1 SOL, and sending it to your phantom wallet address.
+              From there you will be able to mint a Cryptonaut. 
             </p>
 
             <hr />
           </div>
 
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Minting on your phone</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+              You will not be able to mint directly from the safari, instead, download the phantom wallet app from the app store, 
+              sign up or log in to your phantom wallet, ensure you have 1 SOL, from there, click on the globe in the
+              bottom right corner of your screen. Type cryptonauts.zone in the search bar, click connect, select your wallet,
+              verify, and then you are all set, click mint and you have yourself a Cryptonaut in your wallet!
             </p>
 
             <hr />
           </div>
 
           <div>
-            <h4>Lorem ipsum?</h4>
+            <h4>Minting on PC</h4>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Suspendisse id metus id mauris tincidunt posuere. Vivamus neque
-              odio, imperdiet vitae.
+              We recommend chrome for this process, first, ensure you have the phantom wallet extension downloaded, sign up or log in to your phantom wallet, 
+              ensure you have 1 SOL, from there search www.cryptonauts.zone in your search bar, if you are not automatically prompted
+              to connect your phantom wallet, click on connect, follow the phantom extensions prompts, once connected you will be redirected
+              to our site, from there you are all set, click mint and you have yourself a Cryptonaut in your wallet!
             </p>
 
             <hr />
@@ -223,3 +235,4 @@ const App = () => {
 };
 
 export default App;
+
