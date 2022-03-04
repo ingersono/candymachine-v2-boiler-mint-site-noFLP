@@ -164,19 +164,19 @@ const App = () => {
 
         <div id="link3" className="container card">
           <h1 className="pb-3">
-          -  10% of all profits ever generated redistrubeted to holders on quarterly basis
+          -  10% of all profits ever generated redistrubeted to holders on quarterly basis \n
 
-          -  One FREE piece of clothing from every clothing drop that you mint from
+          -  One FREE piece of clothing from every clothing drop that you mint from \n
 
-          -  Access to all giveaways and airdrops; totalling over $75,000
+          -  Access to all giveaways and airdrops; totalling over $75,000 \n
 
-          -  Eligibility to compete in The Great Hash
+          -  Eligibility to compete in The Great Hash \n
 
-          -  Access to all Cryptonaut events
+          -  Access to all Cryptonaut events \n
 
-          -  Access to private discord channels just for holders
+          -  Access to private discord channels just for holders \n
 
-          -  Immediate access to one of the best communities on the internet!!
+          -  Immediate access to one of the best communities on the internet!! \n
           </h1>
         </div>
 
