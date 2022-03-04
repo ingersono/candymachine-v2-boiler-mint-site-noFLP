@@ -91,10 +91,10 @@ const App = () => {
           </li>
           <li>
             <div className="social-icons">
-              <a href="https://twitter.com" target="_blank" rel="noreferrer">
+              <a href="https://twitter.com/cryptonautsla" target="_blank" rel="noreferrer">
                 <img className="nav-social" src="/icons/twitter.svg" alt="" />
               </a>
-              <a href="https://discord.com" target="_blank" rel="noreferrer">
+              <a href="https://discord.gg/DNZdMY4dzg" target="_blank" rel="noreferrer">
                 <img className="nav-social" src="/icons/discord.svg" alt="" />
               </a>
             </div>
@@ -133,7 +133,7 @@ const App = () => {
         <header className="card" id="link1">
           <div style={{ padding: "0 24px 0 24px 0" }}>
             <h3 className="text-secondary-color">Save the metaverse</h3>
-            <h1 className="pb-3">Become a Cryptonaut today</h1>
+            <h1 className="pb-3">Become a Cryptonaut</h1>
             <p className="text-secondary-color">
               Congrats, you have gained access to Cryptonauts minting site. Make sure your phantom wallet is loaded with SOL.
               If you need help with the minting process please refer to our minting FAQ above.
