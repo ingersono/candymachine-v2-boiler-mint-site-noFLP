@@ -67,7 +67,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
+            <img className="mobile-nav-logo" src="candymachine-v2-boiler-mint-site-noFLP/public/logo.png" alt="" />
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
@@ -76,7 +76,7 @@ const App = () => {
           </li>
           <li>
             <a href="/#link2" onClick={toggleMenu}>
-              Roadmap
+              About Us
             </a>
           </li>
           <li>
@@ -111,7 +111,7 @@ const App = () => {
             Welcome
           </a>
           <a className="hide-800" href="/#link2">
-            Roadmap
+            About Us
           </a>
           <a className="hide-800" href="/#link3">
             NFT Holder Perks
@@ -159,19 +159,7 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac velit
-          aliquet, semper sapien sed, ornare augue. Phasellus sed velit
-          interdum, sagittis metus quis, facilisis lectus. Cras sollicitudin
-          purus at magna eleifend maximus. Nulla nec nulla in nunc maximus
-          viverra in at mauris. Fusce sodales dolor nisi, et vehicula orci porta
-          id. In placerat nunc sed erat lacinia tincidunt. Interdum et malesuada
-          fames ac ante ipsum primis in faucibus. Vestibulum commodo eget metus
-          vitae tempus. Aliquam pharetra mi at efficitur accumsan. Curabitur
-          venenatis libero a ex porttitor, at auctor turpis hendrerit. Nam
-          commodo, risus non consequat pretium, erat ante auctor purus, a cursus
-          dolor erat at velit. Maecenas dignissim, dolor sed laoreet aliquam,
-          tortor lacus faucibus urna, eget mattis massa sem ac dui. Nam semper
-          hendrerit interdum. Etiam at dictum nisi.
+          The Cryptonauts are the first team of multiverse heroes to save the metaverse
         </div>
 
         <div id="link3" className="container card">
