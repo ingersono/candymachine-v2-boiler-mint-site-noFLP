@@ -1,7 +1,7 @@
 :root {
   
   /* Main Settings  */
-  --main-background-color: rgb(235, 235, 235);
+  --main-background-color: linear-gradient(180deg,#604ae5 0%,#813eee 100%);
 
   --text-primary-color: rgb(0, 0, 0);
   --text-secondary-color: rgb(68, 68, 68);
