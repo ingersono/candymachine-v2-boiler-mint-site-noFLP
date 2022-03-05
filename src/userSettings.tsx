@@ -145,8 +145,8 @@ export const publicSaleSettings: PublicSaleSettings = {
   // date('29 2021 00:00:00 GMT')
 
   //Title and Description
-  title: "Public Sale",
-  desc: "Sale is now live. Mint your NFT below",
+  title: "Whitelist Sale",
+  desc: "The discounted whitelist sale is now live, mint your Cryptoaut below",
 
   //Enable Custom HTML
   enableCustomHTML: false,
