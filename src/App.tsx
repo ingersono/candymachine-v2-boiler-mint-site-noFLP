@@ -67,7 +67,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="logo.svg" alt="" />
+            <img className="mobile-nav-logo" src="/logo.svg" alt="" />
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
@@ -106,7 +106,7 @@ const App = () => {
       </div>
       <nav>
         <div className="nav-container">
-          <img className="nav-logo" src="/img/logo.svg" alt="" />
+          <img className="nav-logo" src="/logo.svg" alt="" />
           <a className="hide-800" href="/#link1">
             Welcome
           </a>
