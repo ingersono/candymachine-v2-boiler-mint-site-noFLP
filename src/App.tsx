@@ -67,7 +67,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="candymachine-v2-boiler-mint-site-noFLP/public/logo.png" alt="" />
+            <img className="mobile-nav-logo" src="logo.svg" alt="" />
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
@@ -159,10 +159,9 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          Everyone who mints a Cryptonaut will receive:
-          A FREE Cryptonauts hoodie 
-          abiltiy to resell your nft on MagicEden
-          10% of all profit from the launch redistributed to all minters
+          <video width="400" controls>
+          <source src="looped.mp4" type="video/mp4">
+          </video>
         </div>
 
         <div id="link3" className="container card">
