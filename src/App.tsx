@@ -71,7 +71,7 @@ const App = () => {
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
-              Welcome
+              Home
             </a>
           </li>
           <li>
@@ -108,7 +108,7 @@ const App = () => {
         <div className="nav-container">
           <img className="nav-logo" src="/icons/logo.png" alt="" />
           <a className="hide-800" href="/#link1">
-            Welcome
+            Home
           </a>
           <a className="hide-800" href="/#link2">
             NFT holder perks
@@ -166,10 +166,10 @@ const App = () => {
           <h1 className="pb-3">
             We are coming to save the metaverse
           </h1>
-          <h4>
+          <h5>
             Join the Cryptonauts in their quest to save the metaverse, the first step awaits you. Nothing is standing in your way,
-            besides that bug succulent gradient mint button above ;) 
-          </h4>
+            besides that big succulent gradient mint button above ;) 
+          </h5>
         </div>
 
         <div id="link4" className="container faq">
