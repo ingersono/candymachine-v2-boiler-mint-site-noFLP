@@ -166,10 +166,10 @@ const App = () => {
           <h1 className="pb-3">
             We are coming to save the metaverse
           </h1>
-          <h5>
+          <h4>
             Join the Cryptonauts in their quest to save the metaverse, the first step awaits you. Nothing is standing in your way,
             besides that big succulent gradient mint button above ;) 
-          </h5>
+          </h4>
         </div>
 
         <div id="link4" className="container faq">
