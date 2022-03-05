@@ -159,9 +159,7 @@ const App = () => {
         </header>
 
         <div id="link2" className="container">
-          <video width="400" controls>
-          <source src="looped.mp4" type="video/mp4">
-          </video>
+          
         </div>
 
         <div id="link3" className="container card">
