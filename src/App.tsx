@@ -67,7 +67,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/icons/logo.svg" alt="" />
+            <img className="mobile-nav-logo" src="/icons/logo.png" alt="" />
           </li>
           <li>
             <a href="/#link1" onClick={toggleMenu}>
@@ -164,8 +164,12 @@ const App = () => {
 
         <div id="link3" className="container card">
           <h1 className="pb-3">
-            The Cryptonauts are the first team of multiverse heroes to save the metaverse
+            We are coming to save the metaverse
           </h1>
+          <h4>
+            Join the Cryptonauts in their quest to save the metaverse, the first step awaits you. Nothing is standing in your way,
+            besides that bug succulent gradient mint button above ;) 
+          </h4>
         </div>
 
         <div id="link4" className="container faq">
@@ -185,7 +189,7 @@ const App = () => {
             <h4>Minting on your phone</h4>
             <p>
               You will not be able to mint directly from the safari, instead, download the phantom wallet app from the app store, 
-              sign up or log in to your phantom wallet, ensure you have 1 SOL, from there, click on the globe in the
+              sign up or log in to your phantom wallet, ensure you have 1 SOL, from there, once in the phantom app click on the globe in the
               bottom right corner of your screen. Type cryptonauts.zone in the search bar, click connect, select your wallet,
               verify, and then you are all set, click mint and you have yourself a Cryptonaut in your wallet!
             </p>
