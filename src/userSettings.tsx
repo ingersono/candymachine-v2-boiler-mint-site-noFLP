@@ -146,7 +146,7 @@ export const publicSaleSettings: PublicSaleSettings = {
 
   //Title and Description
   title: "Whitelist Sale",
-  desc: "The discounted whitelist sale is now live, mint your Cryptoaut below",
+  desc: "The discounted sale is now live, mint your Cryptoaut below",
 
   //Enable Custom HTML
   enableCustomHTML: false,
