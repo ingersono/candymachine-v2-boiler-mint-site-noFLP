@@ -106,7 +106,7 @@ const App = () => {
       </div>
       <nav>
         <div className="nav-container">
-          <img className="nav-logo" src="/img/logo.png" alt="" />
+          <img className="nav-logo" src="/img/logo.svg" alt="" />
           <a className="hide-800" href="/#link1">
             Welcome
           </a>
